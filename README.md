@@ -1,5 +1,5 @@
 # Fertiliser Problem
-Computes for the amount of fertiliser to be used. 
+Computes for the amount of fertiliser to be used by a farmer.
 
 
 # Problem Description
