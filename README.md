@@ -1,9 +1,8 @@
-# FertiliserPeoblem
-Compute for the amount of fertiliser to be used. 
+# Fertiliser Problem
+Computes for the amount of fertiliser to be used. 
 
 
--- PROBLEM TO SOLVE
-
+#Problem Description
 A farmer needs to select fertiliser for her crops. She has access to two different types of fertiliser. Type A
 contains 30% nitrogen and 20% phosphate. Type B contains 10% nitrogen and 40% phosphate. Supposing
 that a particular crop needs n kilograms of nitrogen in total, and p kilograms of phosphate in total, how
@@ -27,3 +26,8 @@ cannot add a negative amount of fertiliser to her field, so if a or b is negativ
 solution to the problem. Likewise, all the arguments to the function will make sense physically, i.e. they will
 all be non-negative. Mathematically, it is possible for there to be an infinite number of solutions, but this is
 beyond what we studied in the unit, so such cases can be ignored; they will not be used as test cases
+
+#What I learned
+
+* 
+*
