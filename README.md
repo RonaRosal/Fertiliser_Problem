@@ -2,7 +2,7 @@
 Computes for the amount of fertiliser to be used. 
 
 
-#Problem Description
+# Problem Description
 
 A farmer needs to select fertiliser for her crops. She has access to two different types of fertiliser. Type A
 contains 30% nitrogen and 20% phosphate. Type B contains 10% nitrogen and 40% phosphate. Supposing
@@ -28,7 +28,7 @@ solution to the problem. Likewise, all the arguments to the function will make s
 all be non-negative. Mathematically, it is possible for there to be an infinite number of solutions, but this is
 beyond what we studied in the unit, so such cases can be ignored; they will not be used as test cases
 
-#What I learned
+# What I learned
 
 * 
 *
